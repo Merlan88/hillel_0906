@@ -16,6 +16,7 @@ public class Task4 {
             System.out.print(a + " " + c);
         } else if (a == b) {
             System.out.print(a + " " + b);
+            System.out.println("Hello");
         }
     }
 }
